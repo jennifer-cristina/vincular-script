@@ -1,2 +1,1 @@
 # vincular-script
-# vincular-script
