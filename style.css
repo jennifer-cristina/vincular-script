@@ -1,0 +1,21 @@
+.vermelho {
+    color: red;
+    font: 3rem;
+    font-style: italic;
+}
+
+.azul {
+    color: blue;
+    font: 4rem;
+    font-style: normal;
+}
+
+.verde {
+    color: green;
+    font: 4rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.preto {
+    color: black;
+}
